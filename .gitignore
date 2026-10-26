@@ -1,0 +1,5 @@
+service_bot.db
+*.db
+.env
+bot_token.txt
+__pycache__/
